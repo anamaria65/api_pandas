@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
-import matplotlib.pyplot as plt
-     
+import matplotlib.pyplot as plt 
+ 
 def sacarTemp():
     url= 'https://www.el-tiempo.net/api/json/v2/home'
 
